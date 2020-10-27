@@ -7,7 +7,7 @@
 //
 
 import UIKit
-extension UIView {
+public extension UIView {
     
     /// 部分圆角
     ///

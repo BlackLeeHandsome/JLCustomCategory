@@ -9,7 +9,7 @@
 import UIKit
 import CommonCrypto
 
-extension String {
+public extension String {
     
     // MD5
     var md5: String {

@@ -8,7 +8,7 @@
 
 import UIKit
 
-extension UIImage {
+public extension UIImage {
     
      static func jw_getImageWithColor(color:UIColor)->UIImage{
         let rect = CGRect(x: 0, y: 0, width: 1, height: 1)

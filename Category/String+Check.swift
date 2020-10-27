@@ -7,7 +7,7 @@
 
 import UIKit
 
-extension String {
+public extension String {
     
     /// 检查是否手机号
     func isTelNumber() -> Bool
