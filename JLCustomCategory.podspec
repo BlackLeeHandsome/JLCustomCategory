@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "JLCustomCategory"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "swift Category中提供一些通用方法"
 
   # This description is used to generate tags and improve search results.

@@ -29,28 +29,5 @@ public extension UIColor {
     }
 }
 
-extension UIColor {
-    class var ThemeColor: UIColor {
-        return UIColor(rgb: 0x09C36C)
-    }
-    class var TitleColor: UIColor {
-        return UIColor(rgb: 0x222222)
-    }
-    
-    class var DetailTitleColor: UIColor {
-        return UIColor(rgb: 0x999999)
-    }
-    
-    class var Color_666666: UIColor {
-        return UIColor(rgb: 0x666666)
-    }
-    
-    class var backGrayColor: UIColor {
-        return UIColor(rgb: 0xF4F4F4)
-    }
-    
-    class var showdenColor: UIColor {
-        return UIColor(rgb: 0xA3DCE7)
-    }
-}
+
 
