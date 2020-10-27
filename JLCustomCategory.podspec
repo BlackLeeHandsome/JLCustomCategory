@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "JLCustomCategory"
-  spec.version      = "1.0"
+  spec.version      = "1.0.1"
   spec.summary      = "swift Category中提供一些通用方法"
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,8 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-                   "swift Category中提供一些通用方法"
+                   "swift Category中提供一些通用方法,
+                   pod JLCustomCategory"
                    DESC
 
   spec.homepage     = "https://github.com/BlackLeeHandsome/JLCustomCategory"
@@ -69,7 +70,7 @@ Pod::Spec.new do |spec|
     spec.swift_versions = "5.0"
 
   #  When using multiple platforms
-   spec.ios.deployment_target = "10.0"
+   spec.ios.deployment_target = "9.0"
   # spec.osx.deployment_target = "10.7"
   # spec.watchos.deployment_target = "2.0"
   # spec.tvos.deployment_target = "9.0"
